@@ -1,0 +1,15 @@
+{
+    "name": "yurakaras/eveapitry",
+    "description": "Example using Eve online APIv2 with 3rdpartyeve/phealng, Yii",
+    "require": {
+        "yiisoft/yii": "1.1.14",
+        "3rdpartyeve/phealng": "1.0.*"
+    },
+    "license": "CC",
+    "authors": [
+        {
+            "name": "Yuri Efimov",
+            "email": "yura.karas@gmail.com"
+        }
+    ]
+}
